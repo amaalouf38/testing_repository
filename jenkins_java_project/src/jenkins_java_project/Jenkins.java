@@ -6,6 +6,10 @@ public class Jenkins {
 		// TODO Auto-generated method stub
 //this is a new commit for the repository
 		//new changes to the file
+		
+		//new changes to the file
+		//new changes to the file
+		//new changes to the file
 	}
 
 }
